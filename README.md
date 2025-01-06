@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @EliasPires
-- 🌱 I’m currently learning java and React
+- 🌱 I’m currently studying java and React
 
 
